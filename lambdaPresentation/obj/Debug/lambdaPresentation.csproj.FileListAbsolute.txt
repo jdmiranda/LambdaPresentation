@@ -1,0 +1,6 @@
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\bin\Debug\lambdaPresentation.exe.config
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\obj\Debug\lambdaPresentation.csprojResolveAssemblyReference.cache
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\bin\Debug\lambdaPresentation.exe
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\bin\Debug\lambdaPresentation.pdb
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\obj\Debug\lambdaPresentation.exe
+C:\Users\jeremym\Dropbox\Repos\lambdaPresentation\lambdaPresentation\obj\Debug\lambdaPresentation.pdb
